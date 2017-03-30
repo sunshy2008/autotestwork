@@ -1,0 +1,54 @@
+2017-02-07 16:41:09,540 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 16:42:20,129 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 16:45:41,068 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 16:47:14,002 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 16:47:42,136 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 16:48:06,439 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 16:48:42,093 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 16:48:46,358 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 16:49:07,741 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 16:49:07,745 connectionpool.py[line:207] DEBUG Starting new HTTP connection (1): 114.55.40.35
+2017-02-07 16:49:07,828 connectionpool.py[line:395] DEBUG http://114.55.40.35:806 "GET /V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997 HTTP/1.1" 200 115
+2017-02-07 16:49:07,829 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 16:49:48,249 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 16:49:53,582 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 16:50:03,595 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 16:50:11,716 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 16:50:15,545 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 16:50:23,058 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 16:51:47,969 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 16:56:01,002 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 16:56:34,338 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 16:57:16,807 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 16:58:24,978 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 17:08:17,688 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 17:08:17,691 connectionpool.py[line:207] DEBUG Starting new HTTP connection (1): 114.55.40.35
+2017-02-07 17:08:17,768 connectionpool.py[line:395] DEBUG http://114.55.40.35:806 "GET /V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997 HTTP/1.1" 200 114
+2017-02-07 17:08:17,769 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 17:08:50,105 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 17:08:50,109 connectionpool.py[line:207] DEBUG Starting new HTTP connection (1): 114.55.40.35
+2017-02-07 17:08:50,183 connectionpool.py[line:395] DEBUG http://114.55.40.35:806 "GET /V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997 HTTP/1.1" 200 115
+2017-02-07 17:08:50,184 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 17:09:13,843 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 17:09:19,546 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 17:09:33,170 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 17:09:50,887 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 17:10:03,610 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 17:11:57,423 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 17:13:47,997 httprequest.py[line:50] ERROR 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUcDiff=1476352997   服务器返回:  404
+ error info: {"message":"No HTTP resource was found that matches the request URI 'http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUcDiff=1476352997'."} 
+2017-02-07 17:15:53,209 httprequest.py[line:50] ERROR 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUcDiff=1476352997   服务器返回:  404
+ error info: {"message":"No HTTP resource was found that matches the request URI 'http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUcDiff=1476352997'."} 
+2017-02-07 17:15:59,518 httprequest.py[line:50] ERROR 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUcDiff=1476352997   服务器返回:  404
+ error info: {"message":"No HTTP resource was found that matches the request URI 'http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUcDiff=1476352997'."} 
+2017-02-07 17:16:21,997 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 17:20:37,924 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 17:32:34,760 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 17:33:39,303 httprequest.py[line:48] INFO 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clientUtcDiff=1476352997   服务器返回:  200
+2017-02-07 17:34:01,445 httprequest.py[line:50] ERROR 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clienUtcDiff=1476352997   服务器返回:  404
+ error info: {"message":"No HTTP resource was found that matches the request URI 'http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clienUtcDiff=1476352997'."} 
+2017-02-07 17:35:27,480 httprequest.py[line:50] ERROR 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clienUtcDiff=1476352997   服务器返回:  404
+ error info: {"message":"No HTTP resource was found that matches the request URI 'http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clienUtcDiff=1476352997'."} 
+2017-02-07 17:36:02,814 httprequest.py[line:50] ERROR 发送get请求: http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clienUtcDiff=1476352997   服务器返回:  404
+ error info: {"message":"No HTTP resource was found that matches the request URI 'http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff?clienUtcDiff=1476352997'."} 
+2017-02-07 17:36:02,815 dataparse.py[line:33] ERROR 'success'

@@ -1,0 +1,18 @@
+{
+    "data": {
+        "isLatest": "false",
+        "appVersion": {
+            "appType": "",
+            "publishTime": "2016-12-09 15:27:44",
+            "appID": 1,
+            "isForce": "false",
+            "ID": 38,
+            "downloadUrl": "/app/2016-12-09/584a5b83e39ca.apk",
+            "versionCode": 20,
+            "versionName": "七彩芯（20161209）",
+            "updateContent": "1.增加通知小红点数目提示\r\n2.优化呼叫中心页面\r\n3.优化投诉报修逻辑\r\n4.增加缴费协议说明"
+        }
+    },
+    "success": 1,
+    "message": "不是最新版本"
+}

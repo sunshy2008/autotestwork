@@ -1,0 +1,17 @@
+{
+    "Result": {
+        "flag_success": "1"
+    },
+    "Method": "get",
+    "inputparam": {
+        "uPwd": "e10adc3949ba59abbe56e057f20f883e",
+        "uName": "18307552006",
+        "ts": "1478658254",
+        "ver": "1.0.0"
+    },
+    "apiStr": "api/User/Login?uName={uName}&uPwd={uPwd}&ver={ver}&ts={ts}",
+    "Desc": "测试004",
+    "url": "http://114.55.40.35:806/V1/",
+    "Title": "测试004",
+    "TestId": "testcase004"
+}

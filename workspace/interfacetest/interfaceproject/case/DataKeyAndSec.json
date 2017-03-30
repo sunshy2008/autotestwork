@@ -1,0 +1,9 @@
+{
+    "message": "服务器对时成功",
+    "success": 1,
+    "data": {
+        "secrect": "13d5f39a",
+        "UtcDiff": 11314568,
+        "key": "676954343"
+    }
+}

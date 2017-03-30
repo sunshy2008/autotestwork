@@ -1,0 +1,17 @@
+{
+    "Desc": "测试002",
+    "Method": "get",
+    "Result": {
+        "flag_success": "1"
+    },
+    "TestId": "testcase002",
+    "Title": "测试002",
+    "apiStr": "api/App/CheckVersion?appID={appID}&appVersion={appVersion}&ver={ver}&ts={ts}",
+    "inputparam": {
+        "appID": 1,
+        "appVersion": 25,
+        "ts": "1476353015",
+        "ver": "1.0.0"
+    },
+    "url": "http://114.55.40.35:806/V1/"
+}

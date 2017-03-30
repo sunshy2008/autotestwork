@@ -1,0 +1,13 @@
+{
+    "Desc": "测试002",
+    "Method": "get",
+    "Result": {
+        "flag_success": 1
+    },
+    "TestId": "testcase002",
+    "Title": "测试001",
+    "inputparam": {
+        "clientUtcDiff": 1476352997
+    },
+    "url": "http://114.55.40.35:806/V1/api/Sys/GetUKeySecAndUtcDiff"
+}
